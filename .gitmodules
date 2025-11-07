@@ -5,6 +5,3 @@
 [submodule "psycCleaning"]
 	path = psycCleaning
 	url = https://github.com/jasonmoy28/psyccleaning
-[submodule "psycModel"]
-	path = psycModel
-	url = https://github.com/jasonmoy28/psycmodel
